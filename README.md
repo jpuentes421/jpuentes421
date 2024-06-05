@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**jpuentes421/jpuentes421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Jessica
+<a href="https://linkedin.com/jessicapuentes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+I am an emerging security analyst interested in threat detection, malware analysis, and defensive/offensive security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Objective
+My journey as an entry level security analyst has led me to hone my skills in critical thinking and problem solving. My goal is to acquire the ComptTIA Security+ certification to demonstrate my dedication and passion for cybersecurity. 
+
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+
+
+## Tools
+<img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
+
+## Certifications
+Coming soon!
+
+## Projects
+Coming soon!
