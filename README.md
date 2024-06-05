@@ -10,8 +10,6 @@ My journey as an entry level security analyst has led me to hone my skills in cr
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
