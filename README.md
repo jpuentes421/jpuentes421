@@ -10,10 +10,12 @@ My journey as an entry level security analyst has led me to hone my skills in cr
 
 
 ## Skills
+[Provide skills and associated project. Make sure to hyperlink the project]
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-
+| Nmap basics           | <a href="https://app.cybrary.it/courses/api/certificate/CC-9067c795-98ab-4d8a-8bff-7aefb9f7f2a4/view">Nmap Basics lab </a>
 
 ## Tools
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
