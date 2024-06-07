@@ -25,4 +25,4 @@ My journey as an entry level security analyst has led me to hone my skills in cr
 Coming soon!
 
 ## Projects
-Coming soon!
+-Cyber-secure-scan
