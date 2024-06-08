@@ -6,7 +6,7 @@ I am an emerging security analyst interested in threat detection, malware analys
 
 
 ## Objective
-My journey as an entry level security analyst has led me to hone my skills in critical thinking and problem solving. My goal is to acquire the ComptTIA Security+ certification to demonstrate my dedication and passion for cybersecurity. 
+My journey as an associate security analyst has led me to hone my skills in critical thinking and problem solving. My goal is to acquire the ComptTIA Security+ certification to demonstrate my dedication and passion for cybersecurity. 
 
 
 ## Skills
