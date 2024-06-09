@@ -6,7 +6,7 @@ I am an emerging security analyst interested in threat detection, malware analys
 
 
 ## Objective
-My journey as an associate security analyst has led me to hone my skills in critical thinking and problem solving. My goal is to acquire the ComptTIA Security+ certification to demonstrate my dedication and passion for cybersecurity. 
+My journey as an associate security analyst has led me to hone my skills in critical thinking and problem solving. I will be documenting my progress and on hands training. My goal is to acquire the ComptTIA Security+ certification to demonstrate my dedication and passion for cybersecurity. 
 
 
 ## Skills
@@ -19,6 +19,10 @@ My journey as an associate security analyst has led me to hone my skills in crit
 -Nmap basics <a href="https://app.cybrary.it/courses/api/certificate/CC-9067c795-98ab-4d8a-8bff-7aefb9f7f2a4/view">Nmap Basics lab </a>
 
 -Linux fundamentals 
+
+-Download Ubuntu on my VirtualBox to configure the Ubuntu computer as a listener and Kali as the server. 
+
+-Transfer files (dead drop) between Kali (server) and Ubuntu (client)
 
 ## Tools
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
