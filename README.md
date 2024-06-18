@@ -1,8 +1,8 @@
 
-# Hello, I'm Jessica
+# Hello, my name is Jessica Puentes
 <a href="https://linkedin.com/in/jessicapuentes/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an emerging security analyst interested in threat detection, malware analysis, and defensive/offensive security. 
+I am an emerging security analyst interested in threat detection, malware analysis, and defensive/offensive security. I am a professional, dedicated, and persistent security analyst with 4+ years of experience with medication management platforms and assessing security posture including physical and network infrastructure. I am open and willing to learn and engage in new techniques including offensive and defensive security concepts. Seeking to leverage and expand my knowledge and experience in the emerging ever-changing security landscape.
 
 
 ## Objective
