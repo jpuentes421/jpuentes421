@@ -14,6 +14,7 @@ My journey as a security analyst has led me to hone my skills in critical thinki
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |  Security scan                                | <a href="https://github.com/mattp18/cyber-secure-scan/blob/master/README.md">Cyber-secure-scan</a>|
+|  Password cracking                            | <a href="https://github.com/jpuentes421/Password-Cracking/blob/main/README.md">Password cracking</a>|
  
 ## Things I'm working on
 -Nmap basics <a href="https://app.cybrary.it/courses/api/certificate/CC-9067c795-98ab-4d8a-8bff-7aefb9f7f2a4/view">Nmap Basics lab </a>
@@ -34,3 +35,4 @@ Coming soon!
 
 ## Projects
 -Cyber-secure-scan
+-Password cracking 
