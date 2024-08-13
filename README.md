@@ -23,9 +23,7 @@ My journey as a security analyst has led me to hone my skills in critical thinki
 
 I learned how to navigate a Linux file system and find files and folders including creating files and directories and append text to files. Learned basic file parsing techniques including unsorted.
 
--Download Ubuntu on my VirtualBox to configure the Ubuntu computer as a listener and Kali as the server. 
-
--Transfer files (dead drop) between Kali (server) and Ubuntu (client)
+-Used Kali ophcrack program to crack easy passwords.
 
 ## Tools
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
