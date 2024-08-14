@@ -9,13 +9,13 @@ I am an emerging security analyst interested in threat detection, malware analys
 My journey as a security analyst has led me to hone my skills in critical thinking and problem solving. I will be documenting my progress and on hands training. My goal is to acquire the ComptTIA Security+ certification to demonstrate my dedication and passion for cybersecurity. 
 
 
-## Skills
+## Skills I'm Learning 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |  Security scan                                | <a href="https://github.com/mattp18/cyber-secure-scan/blob/master/README.md">Cyber-secure-scan</a>|
 |  Password cracking                            | <a href="https://github.com/jpuentes421/Password-Cracking/blob/main/README.md">Password cracking</a>|
- 
+|  Cracking a password using a lookup table     | <a href="https://github.com/jpuentes421/Cracking-a-password-with-a-lookup-table/blob/master/README.md">Cracking a password using a lookup table</a>
 ## Things I'm working on
 -Nmap basics <a href="https://app.cybrary.it/courses/api/certificate/CC-9067c795-98ab-4d8a-8bff-7aefb9f7f2a4/view">Nmap Basics lab </a>
 
