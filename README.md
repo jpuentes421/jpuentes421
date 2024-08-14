@@ -34,3 +34,7 @@ Coming soon!
 ## Projects
 -Cyber-secure-scan
 
+-Password cracking
+
+
+
