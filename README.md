@@ -16,6 +16,8 @@ My journey as a security analyst has led me to hone my skills in critical thinki
 |  Security scan                                | <a href="https://github.com/mattp18/cyber-secure-scan/blob/master/README.md">Cyber-secure-scan</a>|
 |  Password cracking                            | <a href="https://github.com/jpuentes421/Password-Cracking/blob/main/README.md">Password cracking</a>|
 |  Cracking a password using a lookup table     | <a href="https://github.com/jpuentes421/Cracking-a-password-with-a-lookup-table/blob/master/README.md">Cracking a password using a lookup table</a>
+|  Using Wireshark to capture network traffic   | <a href="https://github.com/jpuentes421/Wireshark-to-capture-network-traffic.md">Link to Wireshark Capture Instructions</a>
+
 ## Things I'm working on
 -Nmap basics <a href="https://app.cybrary.it/courses/api/certificate/CC-9067c795-98ab-4d8a-8bff-7aefb9f7f2a4/view">Nmap Basics lab </a>
 
@@ -24,6 +26,9 @@ My journey as a security analyst has led me to hone my skills in critical thinki
 I learned how to navigate a Linux file system and find files and folders including creating files and directories and append text to files. Learned basic file parsing techniques including unsorted.
 
 -Used Kali ophcrack program to crack easy passwords.
+
+-Used Wireshark to sniff a network and capture user credentials. 
+
 
 ## Tools
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
@@ -35,6 +40,8 @@ Coming soon!
 -Cyber-secure-scan
 
 -Password cracking
+
+-Using Wirehshark to capture network traffic 
 
 
 
