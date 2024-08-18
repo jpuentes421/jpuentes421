@@ -17,6 +17,7 @@ My journey as a security analyst has led me to hone my skills in critical thinki
 |  Password cracking                            | <a href="https://github.com/jpuentes421/Password-Cracking/blob/main/README.md">Password cracking</a>|
 |  Cracking a password using a lookup table     | <a href="https://github.com/jpuentes421/Cracking-a-password-with-a-lookup-table/blob/master/README.md">Cracking a password using a lookup table</a>
 |  Using Wireshark to capture network traffic   | <a href="https://github.com/jpuentes421/Wireshark-to-capture-network-traffic.md">Link to Wireshark Capture Instructions</a>
+|  Installing and using SSH                     | <a href="https://github.com/jpuentes421/Installing-and-using-SSH.md">Installing and using SSH</a>
 
 ## Things I'm working on
 -Nmap basics <a href="https://app.cybrary.it/courses/api/certificate/CC-9067c795-98ab-4d8a-8bff-7aefb9f7f2a4/view">Nmap Basics lab </a>
@@ -28,6 +29,8 @@ I learned how to navigate a Linux file system and find files and folders includi
 -Used Kali ophcrack program to crack easy passwords.
 
 -Used Wireshark to sniff a network and capture user credentials. 
+
+-Installed SSH in Kali and utlized a client (PUTTY) in Windows to connect to Kali. 
 
 
 ## Tools
@@ -41,7 +44,9 @@ Coming soon!
 
 -Password cracking
 
--Using Wirehshark to capture network traffic 
+-Using Wireshark to capture network traffic 
+
+-Installing and using SSH
 
 
 
