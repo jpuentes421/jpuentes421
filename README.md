@@ -19,19 +19,12 @@ My journey as a security analyst has led me to hone my skills in critical thinki
 |  Using Wireshark to capture network traffic   | <a href="https://github.com/jpuentes421/Wireshark-to-capture-network-traffic/blob/master/README.md">Wireshark to capture network traffic</a>
 |  Installing and using SSH                     | <a href="https://github.com/jpuentes421/Installing-and-using-SSH/blob/main/README.md">Installing and using SSH</a>
 |  Configure Firewall Rules                     | <a href="https://github.com/jpuentes421/Configure-firewall-rules/blob/main/README.md">Configure firewall rules</a>
+|  Encrypting a file system                     | <a href="https://github.com/jpuentes421/Encrypting-a-file-system/blob/main/README.md">Encrypting a file system</a>
 
 ## Things I'm working on
 -Nmap basics <a href="https://app.cybrary.it/courses/api/certificate/CC-9067c795-98ab-4d8a-8bff-7aefb9f7f2a4/view">Nmap Basics lab </a>
 
 -Linux fundamentals <a href="https://app.cybrary.it/courses/api/certificate/CC-bbc9abf0-a705-49df-a1bf-0c1171059d89/view">Linux fundamentals lab </a>
-
-I learned how to navigate a Linux file system and find files and folders including creating files and directories and append text to files. Learned basic file parsing techniques including unsorted.
-
--Used Kali ophcrack program to crack easy passwords.
-
--Used Wireshark to sniff a network and capture user credentials. 
-
--Installed SSH in Kali and utlized a client (PUTTY) in Windows to connect to Kali. 
 
 
 ## Tools
@@ -54,6 +47,8 @@ I learned how to navigate a Linux file system and find files and folders includi
 -Installing and using SSH
 
 -Configure firewall rules 
+
+-Encrypting a file system
 
 
 
