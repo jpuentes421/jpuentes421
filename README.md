@@ -36,6 +36,10 @@ I learned how to navigate a Linux file system and find files and folders includi
 ## Tools
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
 
+<img src="https://img.shields.io/badge/-Windows_10-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+
+
+
 ## Certifications
 <a href="https://www.credly.com/badges/d80f1e0c-e186-4a5c-a3d5-8c1e1f745a6e/public_url">CompTIA Security+</a>
 
