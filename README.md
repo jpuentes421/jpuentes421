@@ -20,6 +20,7 @@ My journey as a security analyst has led me to hone my skills in critical thinki
 |  Installing and using SSH                     | <a href="https://github.com/jpuentes421/Installing-and-using-SSH/blob/main/README.md">Installing and using SSH</a>
 |  Configure Firewall Rules                     | <a href="https://github.com/jpuentes421/Configure-firewall-rules/blob/main/README.md">Configure firewall rules</a>
 |  Encrypting a file system                     | <a href="https://github.com/jpuentes421/Encrypting-a-file-system/blob/main/README.md">Encrypting a file system</a>
+|  IP Scanner                                   | <a href="https://github.com/jpuentes421/IP-Scanner/blob/main/README.md">IP Scanner</a>
 
 ## Things I'm working on
 -Nmap basics <a href="https://app.cybrary.it/courses/api/certificate/CC-9067c795-98ab-4d8a-8bff-7aefb9f7f2a4/view">Nmap Basics lab </a>
@@ -49,6 +50,8 @@ My journey as a security analyst has led me to hone my skills in critical thinki
 -Configure firewall rules 
 
 -Encrypting a file system
+
+-IP Scanner
 
 
 
