@@ -23,11 +23,13 @@ My journey as a security analyst has led me to hone my skills in critical thinki
 |  IP Scanner                                   | <a href="https://github.com/jpuentes421/IP-Scanner/blob/main/README.md">IP Scanner</a>
 |  Python Basics                                | <a href="https://github.com/jpuentes421/Python-Basics-/blob/main/README.md">Python Basics</a>
 |  Python Basics 2                              | <a href = "https://github.com/jpuentes421/Python-Basics-2-/blob/main/README.md">Python Basics 2</a>
+| SQL Injections 
 
 ## Things I'm working on
 -Nmap basics <a href="https://app.cybrary.it/courses/api/certificate/CC-9067c795-98ab-4d8a-8bff-7aefb9f7f2a4/view">Nmap Basics lab </a>
 
 -Linux fundamentals <a href="https://app.cybrary.it/courses/api/certificate/CC-bbc9abf0-a705-49df-a1bf-0c1171059d89/view">Linux fundamentals lab </a>
+-Burpsuite WebSecurity Academy 
 
 
 ## Tools
